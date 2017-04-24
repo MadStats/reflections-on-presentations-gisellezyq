@@ -49,3 +49,54 @@ What were aspects of the presentation that you liked:   good model fit, interest
 What were aspects of the presentations for which you had concerns or questions: 
 
 
+
+
+Title of presentation:  PC game
+
+What were aspects of the presentation that you liked:   
+
+What were aspects of the presentations for which you had concerns or questions: not quite clear how well the model predict.
+
+
+
+
+
+
+Title of presentation:  h1b
+
+What were aspects of the presentation that you liked:   use different methods.
+
+What were aspects of the presentations for which you had concerns or questions: 
+
+
+
+Title of presentation:  traffic
+
+What were aspects of the presentation that you liked:   detailed model diagnosis.
+
+What were aspects of the presentations for which you had concerns or questions: 
+
+
+
+
+Title of presentation:  songs
+
+What were aspects of the presentation that you liked:   
+
+What were aspects of the presentations for which you had concerns or questions:   should give some examples about rhyme.
+
+
+
+Title of presentation:  NBA
+
+What were aspects of the presentation that you liked:    nice visualization
+
+What were aspects of the presentations for which you had concerns or questions:   
+
+
+
+Title of presentation:  terrorist
+
+What were aspects of the presentation that you liked:   clear logical reasoning.
+
+What were aspects of the presentations for which you had concerns or questions:   
